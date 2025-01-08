@@ -43,7 +43,7 @@ Marketing Intern	(June 2023 – August 2023)
 ## Data Science Projects:
 
 ### [Data Visualization with Plotnine](https://github.com/jcmazzola/Visualization_with_Plotnine.git)
-**Topics:** Plotnine, lesson contribution, grammar of graphics, visualization, readability, facet plots, scatterplot, bar chart, histogram, line chart, regression line, customization.
+**Topics:** Plotnine, python, lesson contribution, grammar of graphics, visualization, readability, facet plots, scatterplot, bar chart, histogram, line chart, regression line, customization.
   
 ### [Field Hockey APC Analysis](https://github.com/jcmazzola/Field_Hockey_APC_analysis.git)
-**Topics:** Sports analysis, scoring rate, Extreme Gradiant Boosting, feature importance, opponent analysis. 
+**Topics:** Sports analysis, scoring rate, Extreme Gradiant Boosting, feature importance, opponent analysis, classification, Plotnine, python. 
