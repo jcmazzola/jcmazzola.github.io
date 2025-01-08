@@ -5,6 +5,16 @@
 ## Education
 B.S. Economics and Statistical Data Science | University of Connecticut, May 2025
 
+GPA: 3.75/4.0
+
+#### Related Coursework: 
+Statistical Programming, Statistical Learning, Elementary Economic Forecasting, Applied Linear Regression in Data Science, Financial Econometrics, Statistical Methods, Econometrics II
+
+#### Awards:
+- Dean’s List: Spring 2024, Fall 2023, Spring 2023, Fall 2022
+- New England Scholar: 2023
+- Husky Achievement Award Scholarship
+
 ## Experience
 **The Cigna Group** | Morris Plains, New Jersey
 
@@ -40,8 +50,12 @@ B.S. Economics and Statistical Data Science | University of Connecticut, May 202
 
 ## Data Science Projects:
 
-### [Data Visualization with Plotnine](https://github.com/jcmazzola/Visualization_with_Plotnine.git)
+#### [Data Visualization with Plotnine](https://github.com/jcmazzola/Visualization_with_Plotnine.git)
 **Topics:** Plotnine, python, lesson contribution, grammar of graphics, visualization, readability, facet plots, scatterplot, bar chart, histogram, line chart, regression line, customization.
   
-### [Field Hockey APC Analysis](https://github.com/jcmazzola/Field_Hockey_APC_analysis.git)
+#### [Field Hockey APC Analysis](https://github.com/jcmazzola/Field_Hockey_APC_analysis.git)
 **Topics:** Sports analysis, scoring rate, Extreme Gradiant Boosting, feature importance, opponent analysis, classification, Plotnine, python. 
+
+## Related Coursework
+
+
