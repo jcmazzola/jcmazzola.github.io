@@ -38,3 +38,17 @@ Marketing Intern	(June 2023 – August 2023)
 - Utilized Adobe InDesign to craft informative and visually appealing graphics featured in company social media posts, press releases, email campaigns, and presentations.
 - Organized and maintained the company website ensuring current and engaging content by highlighting notable projects and company accomplishments
 
+## Projects
+
+## Data Science Projects:
+
+[Data Visualization with Plotnine](https://github.com/jcmazzola/Visualization_with_Plotnine.git)
+**Topics:**
+- Plotnine
+- Grammer of Graphics
+- Visualization
+- Readability
+- Facet Plots
+- Scatterplot, bar chart, histogram, line chart, regression line.
+  
+[Field Hockey APC Analysis](https://github.com/jcmazzola/Field_Hockey_APC_analysis.git)
