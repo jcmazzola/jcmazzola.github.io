@@ -42,7 +42,7 @@ Marketing Intern	(June 2023 – August 2023)
 
 ## Data Science Projects:
 
-[Data Visualization with Plotnine](https://github.com/jcmazzola/Visualization_with_Plotnine.git)
+#### [Data Visualization with Plotnine](https://github.com/jcmazzola/Visualization_with_Plotnine.git)
 **Topics:**
 - Plotnine
 - Grammer of Graphics
