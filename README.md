@@ -41,7 +41,7 @@ Statistical Programming, Statistical Learning, Elementary Economic Forecasting, 
 - Deliver comprehensive in-depth explanations of economic theories, address student questions, and support their understanding of both introductory and intermediate macroeconomic and microeconomic concepts.
 - Cultivate an inclusive environment, encouraging students to ask questions and actively participate in discussions.
 
-**LAN Associates**	Midland Park, New Jersey
+**LAN Associates** | Midland Park, New Jersey
 
 *Marketing Intern*	(June 2023 – August 2023)
 - Analyzed and developed essential databases and documents through MS Excel to maintain current and accurate information that enhanced internal client understanding and business development operations.
@@ -55,7 +55,5 @@ Statistical Programming, Statistical Learning, Elementary Economic Forecasting, 
   
 #### [Field Hockey APC Analysis](https://github.com/jcmazzola/Field_Hockey_APC_analysis.git)
 **Topics:** Sports analysis, scoring rate, Extreme Gradiant Boosting, feature importance, opponent analysis, classification, Plotnine, python. 
-
-## Related Coursework
 
 
