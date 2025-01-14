@@ -16,6 +16,7 @@ Statistical Programming, Statistical Learning, Elementary Economic Forecasting, 
 - Husky Achievement Award Scholarship
 
 ## Experience
+
 **The Cigna Group** | Morris Plains, New Jersey
 
 *Underwriting & Analytics Intern*	| May 2024 – July 2024
