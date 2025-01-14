@@ -3,7 +3,9 @@
 #### Technical Skills: Python, R, Stata, Git/Github, VS Code, Excel, Word, Outlook, Minitab, Adobe InDesign, Google Workspace
 
 ## Education
-B.S. Economics and Statistical Data Science | University of Connecticut, May 2025
+B.S. Economics and Statistical Data Science 
+
+University of Connecticut, May 2025
 
 GPA: 3.75/4.0
 
