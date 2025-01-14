@@ -56,4 +56,6 @@ Statistical Programming, Statistical Learning, Elementary Economic Forecasting, 
 #### [Field Hockey APC Analysis](https://github.com/jcmazzola/Field_Hockey_APC_analysis.git)
 **Topics:** Sports analysis, scoring rate, Extreme Gradiant Boosting, feature importance, opponent analysis, classification, Plotnine, python. 
 
+## Resume Download
+[Download Resume](Resume_JMazzola.pdf)
 
