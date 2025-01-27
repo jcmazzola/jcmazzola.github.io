@@ -10,7 +10,16 @@ University of Connecticut, May 2025
 GPA: 3.75/4.0
 
 #### Related Coursework: 
-Statistical Programming, Statistical Learning, Elementary Economic Forecasting, Applied Linear Regression in Data Science, Financial Econometrics, Statistical Methods, Econometrics II
+- Convex Optimization and Machine Learning
+- Introduction to Statistical Learning
+- Elementary Economic Forecasting
+- Applied Linear Regression in Data Science
+- Financial Econometrics
+- Data Ethics
+- Econometrics II
+- Statistical Programming
+- Linear Algebra
+- Mathematical Economics
 
 #### Awards:
 - Dean’s List: Spring 2024, Fall 2023, Spring 2023, Fall 2022
