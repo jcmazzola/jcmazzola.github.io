@@ -2,6 +2,14 @@
 
 #### Technical Skills: Python, R, Stata, Git/Github, VS Code, Excel, Word, Outlook, Minitab, Adobe InDesign, Google Workspace
 
+## About Me
+
+My key areas of interest include statistical learning, econometrics, economic forecasting, and financial analysis. I’m especially drawn to industries where utilizing these technologies can improve outcomes, such as healthcare, technology, and finance. I chose this field because of the ever-changing nature of it, enjoy learning new things and continually expanding my skills to stay ahead in a dynamic field.
+
+Currently during the semester, I work as a Peer Advisor and Tutor for UConn's Department of Economics. I truly enjoy being involved in the department and supporting my peers in their academic journeys. Further, in the Fall 2024 semester I interned with UConn's Field Hockey team as their Video Analyst and Student Manager, through the Sports Statistical Learning Internship. This experience was incredibly valuable in expanding my knowledge of sports analysis and the various methods used to evaluate performance and strategy. At the end of the semester I compiled a report from the season in which I was able to present. 
+
+In Summer 2024 I worked at The Cigna Group as an Underwriting and Analytics Intern. I had the opportunity to work with the Pharmacy Underwriting team within Evernorth Health Services. Over the course of 10 weeks, I gained valuable experience in understanding the role of Pharmacy Benefit Managers (PBM) and how they navigate complex healthcare challenges. It was a valuable experience, and I had the opportunity to work on meaningful projects that provided insightful knowledge of the world of PBMs.
+
 ## Education
 B.S. Economics and Statistical Data Science 
 
