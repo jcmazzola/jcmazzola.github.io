@@ -2,7 +2,7 @@
 
 ## [Resume](Resume_JMazzola.pdf) | [Email](mailto:juliacmazzola@gmail.com) | [LinkedIn](https://www.linkedin.com/in/juliacmazzola/)
 
-#### Technical Skills: Python, R, Stata, Git/Github, VS Code, Excel, Word, Outlook, Minitab, Adobe InDesign, Google Workspace
+**Technical Skills:** Python, R, Stata, Git/Github, VS Code, Excel, Word, Outlook, Minitab, Adobe InDesign, Google Workspace
 
 ## About Me
 
