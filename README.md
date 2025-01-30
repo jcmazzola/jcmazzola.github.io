@@ -73,8 +73,20 @@ GPA: 3.75/4.0
 ## Data Science Projects:
 
 #### [Data Visualization with Plotnine](https://github.com/jcmazzola/Visualization_with_Plotnine.git)
+
+This class note contribution focuses on Plotnine, a Python library for creating visually appealing and effective visualizations. It includes examples and explanations of the various ways to customize visualizations, making them both user-friendly and informative. These resources are designed to help students develop skills they can apply in their careers, whether in corporate settings or academia.
+
+These notes were presented to the Dr. Jun Yan's Fall 2024 Introduction to Data Science class.
+
 **Topics:** Plotnine, python, lesson contribution, grammar of graphics, visualization, readability, facet plots, scatterplot, bar chart, histogram, line chart, regression line, customization.
   
 #### [Field Hockey APC Analysis](https://github.com/jcmazzola/Field_Hockey_APC_analysis.git)
+
+University of Connecticut– Sports Statistical Learning Internship
+
+In the Fall 2024 semester, I had the opportunity to collaborate with UConn's Field Hockey team through the UConn Sports Statistical Learning Internship. This experience allowed me to investigate various factors influencing the success of attacking penalty corners. My aim was to provide actionable insights that could help enhance team strategies and improve performance outcomes.
+
+This project is part of my broader effort to apply data science across a diverse range of fields, contributing valuable analysis to real-world challenges.
+
 **Topics:** Sports analysis, scoring rate, Extreme Gradiant Boosting, feature importance, opponent analysis, classification, Plotnine, python. 
 
