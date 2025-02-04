@@ -70,7 +70,7 @@ GPA: 3.75/4.0
 - Utilized Adobe InDesign to craft informative and visually appealing graphics featured in company social media posts, press releases, email campaigns, and presentations.
 - Organized and maintained the company website ensuring current and engaging content by highlighting notable projects and company accomplishments
 
-## Data Science Projects:
+## Data Science Projects
 
 #### [Field Hockey APC Analysis](https://github.com/jcmazzola/Field_Hockey_APC_analysis.git)
 
