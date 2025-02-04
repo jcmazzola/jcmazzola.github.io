@@ -94,4 +94,4 @@ These notes were presented to the Dr. Jun Yan's Fall 2024 Introduction to Data S
 
 This project applies statistical learning techniques to predict the NASDAQ Composite Index, combining my interests in Economics and Data Science. Using historical stock data from January 4, 2010, to October 25, 2024, the analysis identifies key predictors of stock price movements, examines the impact of seasonality, and evaluates the effectiveness of machine learning models for time-series forecasting.
 
-**Topics:** Moving Average, Extreme Gradient Boosting (XGBoost), Python, Plotnine, feature importance analysis, time-series forecasting, feature engineering
+**Topics:** Moving Average, Extreme Gradient Boosting (XGBoost), Python, Plotnine, feature importance analysis, time-series forecasting, feature engineering, financial analysis
