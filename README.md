@@ -38,20 +38,6 @@ GPA: 3.75/4.0
 
 ## Experience
 
-**The Cigna Group** | Morris Plains, New Jersey
-
-*Underwriting & Analytics Intern*	| May 2024 – July 2024
-- Worked collaboratively with stakeholders and subject matter experts to create a comprehensive finance workflow chart resulting in enhanced team understanding of the client pricing cycle and internal financial processes.
-- Developed data-driven strategy roadmaps for the Pricing Team, analyzing client requests, risk assessment, internal procedures, and projected financial impacts of new pharmaceuticals and legislation on pricing models.
-- Presented findings and visualized insights for project stakeholders and team members, offering data-driven explanations to address understanding, ensure clarity, and drive alignment on improvements.
-
-**UConn Sports Statistical Learning Internship** | Storrs, Connecticut
-
-*Field Hockey Video Analyst* | August 2024 – December 2024
-- Developed statistical learning models in Python to analyze penalty corner metrics, integrating data analysis and visualizations to support strategic play planning and informed coaching decisions.
-- Extracted and analyzed data from season game footage to provide coaching staff insights on tactical strategies, scout performance, and zone entries, resulting in optimized gameplay tactics and improved team performance.
-- Configured and managed camera equipment and sideline technologies to ensure precise data capture, enabling real-time analysis of player actions, substitutions, and tactical adjustments.
-
 **UConn Department of Economics** | Storrs, Connecticut
 
 *Peer Academic Advisor* | August 2024 – Present
@@ -62,6 +48,20 @@ GPA: 3.75/4.0
 *Economics Tutor*	| September 2024 – Present
 - Deliver comprehensive in-depth explanations of economic theories, address student questions, and support their understanding of both introductory and intermediate macroeconomic and microeconomic concepts.
 - Cultivate an inclusive environment, encouraging students to ask questions and actively participate in discussions.
+
+**UConn Sports Statistical Learning Internship** | Storrs, Connecticut
+
+*Field Hockey Video Analyst* | August 2024 – December 2024
+- Developed statistical learning models in Python to analyze penalty corner metrics, integrating data analysis and visualizations to support strategic play planning and informed coaching decisions.
+- Extracted and analyzed data from season game footage to provide coaching staff insights on tactical strategies, scout performance, and zone entries, resulting in optimized gameplay tactics and improved team performance.
+- Configured and managed camera equipment and sideline technologies to ensure precise data capture, enabling real-time analysis of player actions, substitutions, and tactical adjustments.
+
+**The Cigna Group** | Morris Plains, New Jersey
+
+*Underwriting & Analytics Intern*	| May 2024 – July 2024
+- Worked collaboratively with stakeholders and subject matter experts to create a comprehensive finance workflow chart resulting in enhanced team understanding of the client pricing cycle and internal financial processes.
+- Developed data-driven strategy roadmaps for the Pricing Team, analyzing client requests, risk assessment, internal procedures, and projected financial impacts of new pharmaceuticals and legislation on pricing models.
+- Presented findings and visualized insights for project stakeholders and team members, offering data-driven explanations to address understanding, ensure clarity, and drive alignment on improvements.
 
 **LAN Associates** | Midland Park, New Jersey
 
