@@ -17,7 +17,7 @@ B.S. Economics and Statistical Data Science
 
 University of Connecticut, May 2025
 
-GPA: 3.75/4.0
+GPA: 3.77/4.0
 
 #### Related Coursework: 
 - Convex Optimization and Machine Learning
