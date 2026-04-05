@@ -6,7 +6,7 @@
 
 ## About Me
 
-My key areas of interest include statistical learning, econometrics, economic forecasting, and financial analysis. I am particularly drawn to industries where these technologies can drive meaningful improvements, such as healthcare, technology, and finance. I chose this field because of its dynamic nature—I enjoy learning new concepts and continuously expanding my skills to stay ahead in an ever-evolving landscape.
+My key areas of interest include statistical learning, econometrics, economic forecasting, and financial analysis. I am particularly drawn to industries where these technologies can drive meaningful improvements, such as healthcare, technology, and finance. I chose this field because of its dynamic nature. I enjoy learning new concepts and continuously expanding my skills to stay ahead in this ever-evolving landscape.
 
 During the semester, I work as a Peer Advisor and Tutor for UConn’s Department of Economics. I truly enjoy being involved in the department and supporting my peers in their academic journeys. Additionally, in Fall 2024, I interned with UConn’s Field Hockey team as a Video Analyst and Student Manager through the Sports Statistical Learning Internship. This experience greatly expanded my knowledge of sports analytics and the various methods used to evaluate performance and strategy. At the end of the season, I compiled and presented a comprehensive report summarizing key insights.
 
